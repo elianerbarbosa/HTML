@@ -8,7 +8,7 @@
 </head>
 <body>
  <h1>Grace Hopper:a matemática que revolucionou a programação</h1>
-img decoding="async" alt="Grace Hopper: quem foi a matemática que revolucionou a programação" srcset="" src="https://s2-galileu.glbimg.com/sStXcIv32iXMLpqkdTmZ3I4trV0=/0x0:660x419/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_fde5cd494fb04473a83fa5fd57ad4542/internal_photos/bs/2022/d/4/rBH18BRFK9dRfCNzAr1w/grace-hopper-blog-da-engenharia-2.jpeg" class="i-amphtml-fill-content i-amphtml-replaced-content">
+<img decoding="async" alt="Grace Hopper: quem foi a matemática que revolucionou a programação" srcset="" src="https://s2-galileu.glbimg.com/sStXcIv32iXMLpqkdTmZ3I4trV0=/0x0:660x419/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_fde5cd494fb04473a83fa5fd57ad4542/internal_photos/bs/2022/d/4/rBH18BRFK9dRfCNzAr1w/grace-hopper-blog-da-engenharia-2.jpeg" class="i-amphtml-fill-content i-amphtml-replaced-content">
   <center> <p>Norte-americana foi responsável por inventar uma maneira de computadores interpretarem comandos em inglês, em vez de símbolos e números.</p>
 
 <center><p>Nascida em 9 de dezembro de 1906 em Nova York, nos Estados Unidos, Grace Hopper foi uma cientista da computação e almirante da Marinha, conhecida como uma das pioneiras da programação de sistemas.</p>
