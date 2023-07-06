@@ -9,7 +9,7 @@
 </head>
 <body>
  <h1>Grace Hopper:a matemática que revolucionou a programação</h1>
-<img src = "Grace_Hopper.jpg">
+<img src = "pictures/Grace_Hopper.jpg">
 
   <center> <p>Norte-americana foi responsável por inventar uma maneira de computadores interpretarem comandos em inglês, em vez de símbolos e números.</p>
 
