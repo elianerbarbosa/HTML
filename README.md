@@ -1,15 +1,12 @@
 # HTML
-<!Doctype html>
-<html>
-<head>
-    <link rel="shortcut icon" href="ELASNATEC06.ico" type="image/x-icon">
+ <link rel="shortcut icon" href="C:\Users\elian\Downloads\ELASNATEC06.ico" type="image/x-icon">
 
   <center><title>ElasnaTec-Turma 06  -Grace Hopper:a matemática que revolucionou a programação </title>
 
 </head>
 <body>
  <h1>Grace Hopper:a matemática que revolucionou a programação</h1>
-<img src = "Hopper.ico">
+<img src = "Hopper.ico"type="image/x-icon>
 
   <center> <p>Norte-americana foi responsável por inventar uma maneira de computadores interpretarem comandos em inglês, em vez de símbolos e números.</p>
 
@@ -28,4 +25,4 @@
 
    <p>Hello, eu sou Eliane e este é meu primeiro conteúdo em HTML!!!</p>
    </body>
-</html> Hopper:a matemática que revolucionou a programação
+</html>
